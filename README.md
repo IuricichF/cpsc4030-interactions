@@ -33,4 +33,4 @@ Remember that when you are setting the mouseover function, you can request input
 In this case, `d` will store information about the event triggered, `i` will store the row (in the dataset) you are working with.
 
 
-Once you are done implementing all your interactions add a screenshot of your final result in your repo. Then, upload on gradescope your `.html` and `.js` files and the screenshot you have taken
+Once you are done implementing all your interactions add a screenshot of your final result in your folder. Then, upload on Canvas your zipped folder
